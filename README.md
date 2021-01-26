@@ -1,1 +1,1 @@
-# number and image puzzle game
+# number and image puzzle game using swing library of java.
